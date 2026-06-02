@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53d623c9-a33f-4865-b76c-9f47c35eb798" name="Changes" comment="Primer commit: StudentAplications">
+      <change afterPath="$PROJECT_DIR$/students/deber-clase5.postman_collection.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/students">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="students" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KevinSex08&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KevinSex08/StudentAplication_clase_5.git&quot;,
+    &quot;accountId&quot;: &quot;ce7b4dfe-71c4-4ed3-9f63-c789a8fe5823&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.5188826424609958" />
+      <entry key="MS500" value="3.5602576077999544" />
+      <entry key="S2" value="7.228748131821547" />
+      <entry key="S5" value="11.046600048603633" />
+      <entry key="S10" value="13.936874659533201" />
+      <entry key="S30" value="16.97266341099148" />
+      <entry key="S60" value="18.261613791930376" />
+      <entry key="M2" value="22.153805401345505" />
+      <entry key="M5" value="38.40587167281988" />
+      <entry key="M10" value="54.57487519058265" />
+      <entry key="M15" value="64.00891748455506" />
+      <entry key="M30" value="85.56740987324062" />
+      <entry key="H1" value="116.57221132873688" />
+      <entry key="H2" value="147.14950346990688" />
+      <entry key="H4" value="169.29229102123284" />
+      <entry key="D1" value="192.67703461921855" />
+      <entry key="W1" value="197.22515853672994" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="3.19418474889981E-242" />
+      <entry key="S10" value="1.7975920399984693E-121" />
+      <entry key="S30" value="6.645781846559117E-41" />
+      <entry key="S60" value="1.0716703224061804E-20" />
+      <entry key="M2" value="1.5692076664217642E-10" />
+      <entry key="M5" value="3.751214614253393E-4" />
+      <entry key="M10" value="0.0814478314387122" />
+      <entry key="M15" value="0.5434507026088011" />
+      <entry key="M30" value="3.8801871160574897" />
+      <entry key="H1" value="10.673808276197668" />
+      <entry key="H2" value="17.8447213140425" />
+      <entry key="H4" value="23.121046826967383" />
+      <entry key="D1" value="28.722731015308376" />
+      <entry key="W1" value="29.814039993774603" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.38280014223224" />
+      <entry key="MS500" value="3.4810336981811236" />
+      <entry key="S2" value="7.179613578888991" />
+      <entry key="S5" value="11.002470463706832" />
+      <entry key="S10" value="13.902384535547332" />
+      <entry key="S30" value="16.956234406735188" />
+      <entry key="S60" value="18.252426193021122" />
+      <entry key="M2" value="22.14838984055042" />
+      <entry key="M5" value="38.403009571534426" />
+      <entry key="M10" value="54.65333056620836" />
+      <entry key="M15" value="64.54663228748763" />
+      <entry key="M30" value="89.4309665310582" />
+      <entry key="H1" value="127.22328949361672" />
+      <entry key="H2" value="164.97512570413505" />
+      <entry key="H4" value="192.40091862037747" />
+      <entry key="D1" value="221.39718527362348" />
+      <entry key="W1" value="227.0388156609243" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EHOo9dHuu93mLCRg7spJzNlbLH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build students.executor": "Run",
+    "Gradle.Upgrade Gradle wrapper.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.StudentsApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "Rebasing main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USUARIO/jxherrera/arqui/students",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="StudentsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="com.pucetec.students.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pucetec.students.StudentsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53d623c9-a33f-4865-b76c-9f47c35eb798" name="Changes" comment="" />
+      <created>1779832200911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779832200911</updated>
+      <workItem from="1779832202037" duration="71000" />
+      <workItem from="1779832325934" duration="4339000" />
+      <workItem from="1780344979320" duration="82000" />
+      <workItem from="1780348171398" duration="5645000" />
+      <workItem from="1780372336553" duration="2950000" />
+      <workItem from="1780375336874" duration="297000" />
+    </task>
+    <task id="LOCAL-00001" summary="Primer commit: proyecto StudentAplications">
+      <option name="closed" value="true" />
+      <created>1780374477097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780374477097</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Primer commit: StudentAplications">
+      <option name="closed" value="true" />
+      <created>1780374803265</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780374803265</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Primer commit: StudentAplications">
+      <option name="closed" value="true" />
+      <created>1780375141337</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780375141337</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer commit" />
+    <MESSAGE value="Primer commit: proyecto StudentAplications" />
+    <MESSAGE value="Primer commit: StudentAplications" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer commit: StudentAplications" />
+  </component>
+</project>
